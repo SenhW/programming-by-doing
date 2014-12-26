@@ -1,4 +1,4 @@
-/***
+/**
  * Age in Five Years
  * http://programmingbydoing.com/a/age-in-five-years.html
  * Ask the user for their name. Then display their name to prove that you can recall it. Ask them for their age. Then
