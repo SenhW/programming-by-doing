@@ -48,6 +48,8 @@ public class SpaceBoxing {
             planetWeight = earthWeight * 1.05;
         } else if (planet == 6) {
             planetWeight = earthWeight * 1.23;
+        } else {
+            System.out.println("Not a valid planet.");
         }
         System.out.println("Your weight would be " + planetWeight + " pounds on that planet.");
     }
