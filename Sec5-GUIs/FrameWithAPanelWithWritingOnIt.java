@@ -1,3 +1,9 @@
+/**
+ * A Frame with a Panel with Writing on It
+ * http://programmingbydoing.com/a/a-frame-with-a-panel-with-writing-on-it.html
+ * Type in the following code, and get it to compile. Run it, and see what it does.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 
